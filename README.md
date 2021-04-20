@@ -6,6 +6,18 @@ Schematic can be found here: [schematic REV A v02](/Schematic/exp_syst_REVA_v02.
 
 Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs.pl/Maximite-c91)
 
+<img src="Images/exp_items.png" width="800">
+
+1. 2x20 IDC connector compatible with Maximite
+2. 2x13 IDC additional connection for expansion system
+3. Power supply selector and power supply daisy chain
+4. Power supply selector and power supply daisy chain
+5. Edge connector slots
+6. 12V DC 2,5/5,5mm connector
+7. Place for filtering capacitators installation
+
+
+
 # WARNING!
 <img src="Images/champf.jpg" width="200">
 Expansion card used with this system have to have edges chamfered, using unchamfered card will result in slot damage.
@@ -35,20 +47,20 @@ J6, J7, J8. J9 are used to decide if various power lines should be daisy chained
 | J6, J7 | p3, p4 | additional power lines currently not used |
 | J8, J9 | 5V, 3V3 | 5V and 3,3V line from Maximite power line |
 
-## Example ##
+## Example
 Lets assume following setup: Maximite Deluxe GEN2 >>> 1st Expansion >>> 2nd Expansion
 and jumpers on 2st Expansion set as below:
 <img src="Images/pow_jump_exam.png" width="800">
 12V power from Maximite 12v power supply will be connected to first and 2nd expansion. 5V and 3,3V from internal power supply of Maximite will be connected to first expansion but will not to 2nd. 2nd Expansion will receive 3.3V, 5V power cards on 1st expansion.
 
-# How to make expansion card #
+# How to make expansion card
 <img src="Images/card_footp.jpg" width="400">
 <img src="Images/card_symb.jpg" width="400">
 Everything needed to start creating Your own expansion cards can be found here:
 
 [Kicad expansion card](Kicad/exp_card/)
 
-# Expansion cards #
+# Expansion cards
 Following expansion cards are available or are in development:
 
 | ID | Name | Desc. | Status |
