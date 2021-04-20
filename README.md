@@ -4,27 +4,29 @@ Expansion system for CMM2 was created to add easy to use expansion system for CM
 
 Schematic can be found here: [schematic REV A v02](/Schematic/exp_syst_REVA_v02.pdf)
 
+Expansion system and cards can be purchased here: [PS Labs] (https://sklep.pslabs.pl/Maximite-c91)
+
 # WARNING!
 <img src="Images/champf.jpg" width="200">
-Expansion card used with this system have to have edges champfered, using unchampfered card will result in slot dammage
+Expansion card used with this system have to have edges chamfered, using unchamfered card will result in slot damage.
 
 # Assembly
-1. Install protection diode D1. This diode prevent reversed polarity on 12V supply. Instead of diode You can also close jumper JP1, please remember that You will about risk of revers polarity on 12V line, reversed polarity will dammage expnasion system, expansion cards and Maximite unit.
+1. Install protection diode D1. This diode prevent reversed polarity on 12V supply. Instead of diode You can also close jumper JP1, please remember that You will about risk of revers polarity on 12V line, reversed polarity will damage expansion system, expansion cards and Maximite unit.
 2. If needed install smoothing capacitators (not included in kit) C1, C2, C3
 3. Cut goldpin headers with pliers to correct length and install J6, J7, J8. J9
-4. Instal DC connector J3
+4. Install DC connector J3
 5. Install IDC connectors J1, J2, J4, J5, for correct orientation check chapter **"Old vs GEN2 expansion build"**
-6. Install edge connector slots, be carefull to allign 8 and 60 pin slot in each row
+6. Install edge connector slots, be careful to align 8 and 60 pin slot in each row
 7. Install jumpers accordingly to chapter **"Power supply selector and power supply daisy chain"**
 
 # Old vs GEN2 expansion build
-Since IDC40 pin layout have been changed durring GEN2 introduction You have to double check pin layout before connecting. In case of assempling expnasion for GEN2 consoles install idc connectors as shown below:
+Since IDC40 pin layout have been changed during GEN2 introduction You have to double check pin layout before connecting. In case of assembling expansion for GEN2 consoles install IDC connectors as shown below:
 
 <img src="Images/idc_layout.png" width="800">
 
 # Power supply selector and power supply daisy chain
 <img src="Images/pow_jump.png" width="800">
-J6, J7, J8. J9 are used to decide if varrious power lines shoud be daisy chained between expansions or Maximite and expansions
+J6, J7, J8. J9 are used to decide if various power lines should be daisy chained between expansions or Maximite and expansions
 
 | Jumper | Desc. | Remarks |
 | --- | --- | --- |
@@ -46,3 +48,15 @@ Everything needed to start creating Your own expansion cards can be found here:
 
 [Kicad expansion card](Kicad/exp_card/)
 
+# Expansion cards #
+Following expansion cards are available or are in development:
+
+| ID | Name | Desc. | Status |
+| --- | --- | --- | --- |
+| 01 | Mouse/joystick card | adds: USB mouse (HT chip) including wireless, Atari joystick, Nunchuk port | done |
+| 02 | Relay card | Relay card controlled by shift registers, can be daisy chained, only 3 pins needed to operate multiple cards | in progress |
+| 03 | Power card | delivers high amperage 5V and 3.3V to be used with power hungry cards | done |
+| 04 | Prototyping card | simple prototyping card | done |
+| 05 | WiFi card | adds wifi functionality, includes USB to RS chip allowing easy flashing and communication with pc | done |
+| 06 | Shift register card | helps to learn how shift registers work, 16 led operated from 3 pins, can be daisy chained | done |
+| 07 | rs232 card | adds 2 standard RS232 ports | in progress |
