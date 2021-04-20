@@ -4,7 +4,7 @@ Expansion system for CMM2 was created to add easy to use expansion system for CM
 
 Schematic can be found here: [schematic REV A v02](/Schematic/exp_syst_REVA_v02.pdf)
 
-Expansion system and cards can be purchased here: [PS Labs] (https://sklep.pslabs.pl/Maximite-c91)
+Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs.pl/Maximite-c91)
 
 # WARNING!
 <img src="Images/champf.jpg" width="200">
