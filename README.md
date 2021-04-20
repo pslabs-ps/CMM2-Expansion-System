@@ -42,5 +42,5 @@ and jumpers on 2st Expansion set as below:
 # How to make expansion card #
 <img src="Images/card_footp.jpg" width="400">
 <img src="Images/card_symb.jpg" width="400">
-Everything needed to start creating Your own expansion cards can be found [here](/CMM2-Expansion-System/Kicad/exp_card/)
+Everything needed to start creating Your own expansion cards can be found [here](../CMM2-Expansion-System/Kicad/exp_card/)
 
