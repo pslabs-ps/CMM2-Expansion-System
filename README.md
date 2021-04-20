@@ -53,7 +53,7 @@ Following expansion cards are available or are in development:
 
 | ID | Name | Desc. | Status |
 | --- | --- | --- | --- |
-| 01 | [Mouse/joystick card](../CMM2-ExpansionCard-MouseJoy) | adds: USB mouse (HT chip) including wireless, Atari joystick, Nunchuk port | done |
+| 01 | [Mouse/joystick card](https://github.com/pslabs-ps/CMM2-ExpansionCard-MouseJoy) | adds: USB mouse (HT chip) including wireless, Atari joystick, Nunchuk port | done |
 | 02 | Relay card | Relay card controlled by shift registers, can be daisy chained, only 3 pins needed to operate multiple cards | in progress |
 | 03 | Power card | delivers high amperage 5V and 3.3V to be used with power hungry cards | done |
 | 04 | Prototyping card | simple prototyping card | done |
