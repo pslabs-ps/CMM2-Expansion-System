@@ -23,10 +23,8 @@ Since IDC40 pin layout have been changed durring GEN2 introduction You have to d
 <img src="Images/idc_layout.png" width="800">
 
 # Power supply selector and power supply daisy chain
-<img src="Images/pow_jump.png" width="400">
+<img src="Images/pow_jump.png" width="800">
 J6, J7, J8. J9 are used to decide if varrious power lines shoud be daisy chained between expansions or Maximite and expansions
-
-sss
 
 | Jumper | Desc. | Remarks |
 | --- | --- | --- |
@@ -34,3 +32,9 @@ sss
 | J6, J7 | 5V, 3V3 | high efficient 5V and 3,3V from power expansion card |
 | J6, J7 | p3, p4 | additional power lines currently not used |
 | J8, J9 | 5V, 3V3 | 5V and 3,3V line from Maximite power line |
+
+## Example ##
+Lets assume following setup: Maximite Deluxe GEN2 >>> 1st Expansion >>> 2nd Expansion
+and jumpers on 2st Expansion set as below:
+<img src="Images/pow_jump_exam.png" width="800">
+12V power from Maximite 12v power supply will be connected to first and 2nd expansion. 5V and 3,3V from internal power supply of Maximite will be connected to first expansion but will not to 2nd. 2nd Expansion will receive 3.3V, 5V power cards on 1st expansion.
