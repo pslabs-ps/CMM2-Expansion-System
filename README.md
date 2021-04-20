@@ -10,4 +10,5 @@ Expansion card used with this system have to have edges champfered, using uncham
 
 # Old vs GEN2 expansion build
 Since pin layout have been changed durring GEN2 introduction You have to double check pin layout before connecting. In case of assempling expnasion for GEN2 consoles install idc connectors as shown below:
+
 <img src="Images/idc_layout.png" width="800">
