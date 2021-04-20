@@ -26,6 +26,8 @@ Since IDC40 pin layout have been changed durring GEN2 introduction You have to d
 <img src="Images/pow_jump.png" width="400">
 J6, J7, J8. J9 are used to decide if varrious power lines shoud be daisy chained between expansions or Maximite and expansions
 
+sss
+
 | Jumper | Desc. | Remarks |
 | --- | --- | --- |
 | J6, J7 | 12V | 12V line from external 12 power supply connected to Maximite Deluxe or Expansion |
