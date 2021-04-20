@@ -51,6 +51,7 @@ J6, J7, J8. J9 are used to decide if various power lines should be daisy chained
 Lets assume following setup: Maximite Deluxe GEN2 >>> 1st Expansion >>> 2nd Expansion
 and jumpers on 2st Expansion set as below:
 <img src="Images/pow_jump_exam.png" width="800">
+
 12V power from Maximite 12v power supply will be connected to first and 2nd expansion. 5V and 3,3V from internal power supply of Maximite will be connected to first expansion but will not to 2nd. 2nd Expansion will receive 3.3V, 5V power cards on 1st expansion.
 
 # How to make expansion card
