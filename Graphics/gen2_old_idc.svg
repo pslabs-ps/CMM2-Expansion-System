@@ -473,9 +473,9 @@
        inkscape:export-xdpi="199"
        inkscape:export-ydpi="199" />
     <image
-       inkscape:export-ydpi="199.93932"
-       inkscape:export-xdpi="199.93932"
-       inkscape:export-filename="G:\temp\id_layout.png"
+       inkscape:export-ydpi="299.91718"
+       inkscape:export-xdpi="299.91718"
+       inkscape:export-filename="G:\temp\exp_items.png"
        width="73.632957"
        height="93.48922"
        preserveAspectRatio="none"
@@ -485,7 +485,10 @@
        y="171.76546" />
     <g
        id="g879"
-       transform="translate(45.703089,11.816969)">
+       transform="translate(45.703089,11.816969)"
+       inkscape:export-filename="G:\temp\exp_items.png"
+       inkscape:export-xdpi="299.91718"
+       inkscape:export-ydpi="299.91718">
       <circle
          r="3.5413048"
          cy="158.26338"
@@ -506,7 +509,10 @@
     </g>
     <g
        transform="translate(45.703089,109.58051)"
-       id="g887">
+       id="g887"
+       inkscape:export-filename="G:\temp\exp_items.png"
+       inkscape:export-xdpi="299.91718"
+       inkscape:export-ydpi="299.91718">
       <circle
          style="opacity:1;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.0001325;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle881"
@@ -530,7 +536,10 @@
        transform="translate(13.363476,109.58051)">
       <g
          id="g908"
-         transform="translate(0.33072913)">
+         transform="translate(0.33072913)"
+         inkscape:export-filename="G:\temp\exp_items.png"
+         inkscape:export-xdpi="299.91718"
+         inkscape:export-ydpi="299.91718">
         <circle
            style="opacity:1;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.0001325;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle889"
@@ -562,7 +571,10 @@
       </g>
       <g
          id="g920"
-         transform="translate(0.33072913,-97.763541)">
+         transform="translate(0.33072913,-97.763541)"
+         inkscape:export-filename="G:\temp\exp_items.png"
+         inkscape:export-xdpi="299.91718"
+         inkscape:export-ydpi="299.91718">
         <circle
            r="3.5413048"
            cy="158.26338"
@@ -596,7 +608,10 @@
          transform="translate(6.8130208,-80.036458)"
          id="g932">
         <g
-           id="g937">
+           id="g937"
+           inkscape:export-filename="G:\temp\exp_items.png"
+           inkscape:export-xdpi="299.91718"
+           inkscape:export-ydpi="299.91718">
           <circle
              r="3.5413048"
              cy="158.26338"
@@ -617,7 +632,10 @@
         </g>
         <g
            id="g945"
-           transform="translate(0.37093235,65.382447)">
+           transform="translate(0.37093235,65.382447)"
+           inkscape:export-filename="G:\temp\exp_items.png"
+           inkscape:export-xdpi="299.91718"
+           inkscape:export-ydpi="299.91718">
           <circle
              style="opacity:1;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.0001325;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="circle939"
@@ -641,7 +659,10 @@
            id="g953">
           <g
              id="g958"
-             transform="translate(0,0.489194)">
+             transform="translate(0,0.489194)"
+             inkscape:export-filename="G:\temp\exp_items.png"
+             inkscape:export-xdpi="299.91718"
+             inkscape:export-ydpi="299.91718">
             <circle
                style="opacity:1;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.0001325;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                id="circle947"
@@ -662,7 +683,10 @@
           </g>
           <g
              id="g966"
-             transform="translate(-0.85608965,-67.753356)">
+             transform="translate(-0.85608965,-67.753356)"
+             inkscape:export-filename="G:\temp\exp_items.png"
+             inkscape:export-xdpi="299.91718"
+             inkscape:export-ydpi="299.91718">
             <circle
                r="3.5413048"
                cy="158.26338"
@@ -685,7 +709,10 @@
              transform="translate(31.30841,-28.006351)"
              id="g974">
             <g
-               id="g979">
+               id="g979"
+               inkscape:export-filename="G:\temp\exp_items.png"
+               inkscape:export-xdpi="299.91718"
+               inkscape:export-ydpi="299.91718">
               <circle
                  r="3.5413048"
                  cy="158.26338"
@@ -708,7 +735,10 @@
                id="g987"
                transform="translate(2.3236711,-34.855066)">
               <g
-                 id="g992">
+                 id="g992"
+                 inkscape:export-filename="G:\temp\exp_items.png"
+                 inkscape:export-xdpi="299.91718"
+                 inkscape:export-ydpi="299.91718">
                 <circle
                    r="3.5413048"
                    cy="158.26338"
@@ -731,7 +761,10 @@
                  id="g1000"
                  transform="translate(-76.965493,2.5943425)">
                 <g
-                   id="g1005">
+                   id="g1005"
+                   inkscape:export-filename="G:\temp\exp_items.png"
+                   inkscape:export-xdpi="299.91718"
+                   inkscape:export-ydpi="299.91718">
                   <circle
                      r="3.5413048"
                      cy="158.26338"
