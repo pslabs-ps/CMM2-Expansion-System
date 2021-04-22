@@ -69,7 +69,7 @@ Following expansion cards are available or are in development:
 | 01 | [Mouse/joystick card](https://github.com/pslabs-ps/CMM2-ExpansionCard-MouseJoy) | adds: USB mouse (HT chip) including wireless, Atari joystick, Nunchuk port | done |
 | 02 | Relay card | Relay card controlled by shift registers, can be daisy chained, only 3 pins needed to operate multiple cards | in progress |
 | 03 | Power card | delivers high amperage 5V and 3.3V to be used with power hungry cards | done |
-| 04 | [Prototyping card] (https://github.com/pslabs-ps/CMM2-ExpansionCard-ProtoSimple)| simple prototyping card | done |
-| 05 | [WiFi card] (https://github.com/pslabs-ps/CMM2-ExpansionCard-WiFi) | adds wifi functionality, includes USB to RS chip allowing easy flashing and communication with pc | done |
-| 06 | [Shift register card] (https://github.com/pslabs-ps/CMM2-ExpansionCard-ShiftRegisterLed) | helps to learn how shift registers work, 16 led operated from 3 pins, can be daisy chained | done |
+| 04 | [Prototyping card](https://github.com/pslabs-ps/CMM2-ExpansionCard-ProtoSimple)| simple prototyping card | done |
+| 05 | [WiFi card](https://github.com/pslabs-ps/CMM2-ExpansionCard-WiFi) | adds wifi functionality, includes USB to RS chip allowing easy flashing and communication with pc | done |
+| 06 | [Shift register card](https://github.com/pslabs-ps/CMM2-ExpansionCard-ShiftRegisterLed) | helps to learn how shift registers work, 16 led operated from 3 pins, can be daisy chained | done |
 | 07 | rs232 card | adds 2 standard RS232 ports | in progress |
