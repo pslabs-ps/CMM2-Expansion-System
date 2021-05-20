@@ -37,6 +37,9 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 # Current vs GEN2 IDC connector placement
 PS Labs is preparing to introduce new Maximite Deluxe model called GEN2, since IDC40 pin layout will be changed in GEN2, You have to double check pin layout before connecting. Please refer to image below to find out how IDC40 connector should be placed on older and future (GEN2) models:
 
+| :warning: Not following this guideline will result in short circuit an possible damage to Maximite and/or expansion cards |
+| --- |
+
 <img src="Images/idc_layout.png" width="800">
 
 # Power supply selector and power supply daisy chain
