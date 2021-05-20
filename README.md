@@ -20,7 +20,9 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 
 # WARNING!
 <img src="Images/champf.jpg" width="200">
-Expansion card used with this system have to have edges chamfered, using unchamfered card will result in slot damage.
+| :warning: Maximum thickness of expansion card is 1,6mm. 1,6mm Expansion card have to have edges chamfered using unchamfered card will result in slot damage. Expansion cards with thickness 1,2mm or lower can be used without chamfer|
+| --- |
+
 
 # Assembly
 1. Install protection diode D1. This diode prevent reversed polarity on 12V supply. Instead of diode You can also close jumper JP1, please remember that You will about risk of revers polarity on 12V line, reversed polarity will damage expansion system, expansion cards and Maximite unit.
@@ -31,8 +33,8 @@ Expansion card used with this system have to have edges chamfered, using unchamf
 6. Install edge connector slots, be careful to align 8 and 60 pin slot in each row
 7. Install jumpers accordingly to chapter **"Power supply selector and power supply daisy chain"**
 
-# Old vs GEN2 expansion build
-Since IDC40 pin layout have been changed during GEN2 introduction You have to double check pin layout before connecting. In case of assembling expansion for GEN2 consoles install IDC connectors as shown below:
+# Current vs GEN2 IDC connector placement
+PS Labs is preparing to introduce new Maximite Deluxe model called GEN2, since IDC40 pin layout will be changed in GEN2, You have to double check pin layout before connecting. Please refer to image below to find out how IDC40 connector should be placed on older and future (GEN2) models:
 
 <img src="Images/idc_layout.png" width="800">
 
