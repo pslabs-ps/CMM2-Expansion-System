@@ -10,8 +10,8 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 
 1. 2x20 IDC connector compatible with Maximite
 2. 2x13 IDC additional connection for expansion system
-3. Power supply selector and power supply daisy chain
-4. Power supply selector and power supply daisy chain
+3. Power supply selector and power supply daisy chain jumper
+4. Power supply selector and power supply daisy chain jumper
 5. Edge connector slots
 6. 12V DC 2,5/5,5mm connector
 7. Place for filtering capacitators installation
@@ -20,7 +20,7 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 
 # WARNING!
 <img src="Images/champf.jpg" width="200">
-| :warning: Maximum thickness of expansion card is 1,6mm. 1,6mm Expansion card have to have edges chamfered using unchamfered card will result in slot damage. Expansion cards with thickness 1,2mm or lower can be used without chamfer|
+| :warning: Maximum thickness of expansion card is 1,6mm. 1,6mm Expansion card have to have edges chamfered using unchamfered card will result in slot damage. Expansion cards with thickness 1,2mm or lower can be used without chamfer |
 | --- |
 
 
