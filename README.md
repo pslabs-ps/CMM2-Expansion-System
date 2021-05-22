@@ -32,7 +32,7 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 4. Install DC connector J3
 5. Install IDC connectors J1, J2, J4, J5, for correct orientation check chapter **"Old vs GEN2 expansion build"**
 6. Install edge connector slots, be careful to align 8 and 60 pin slot in each row, assembly tool added to the kit should be used
-<img src="Images/assembly_t.png" width="200">
+<img src="Images/assembly_t.png" width="300">
 7. Install jumpers accordingly to chapter **"Power supply selector and power supply daisy chain"**
 
 # Current vs GEN2 IDC connector placement
