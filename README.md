@@ -29,7 +29,7 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 | --- |
 
 # Daisy chain
-<img src="Images/chain.png" width="1000">
+<img src="Images/daisy.png" width="1000">
 
 
 # Assembly
