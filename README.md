@@ -28,6 +28,9 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 | :warning: Maximum thickness of expansion card is 1,6mm. 1,6mm Expansion card have to have edges chamfered using unchamfered card will result in slot damage. Expansion cards with thickness 1,2mm or lower can be used without chamfer|
 | --- |
 
+# Daisy chain
+<img src="Images/chain.png" width="1000">
+
 
 # Assembly
 1. Install protection diode D1. This diode prevent reversed polarity on 12V supply. Instead of diode You can also close jumper JP1, please remember that You will about risk of revers polarity on 12V line, reversed polarity will damage expansion system, expansion cards and Maximite unit.
