@@ -31,6 +31,8 @@ Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs
 # Daisy chain
 <img src="Images/daisy.png" width="1000">
 
+Expansion System connected to Maximite 2 can be daisy chained to further expand its potential.
+
 
 # Assembly
 1. Install protection diode D1. This diode prevent reversed polarity on 12V supply. Instead of diode You can also close jumper JP1, please remember that You will about risk of revers polarity on 12V line, reversed polarity will damage expansion system, expansion cards and Maximite unit.
